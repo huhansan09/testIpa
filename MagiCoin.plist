@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array>
+<dict>
+    <key>items</key>
     <array>
         <dict>
             <key>assets</key>
@@ -9,37 +11,33 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://image.mc-forex.net/public/app/package/MagicCoin.ipa</string>
+                    <string>https://image.mc-forex.net/public/app/package/MagiCoin.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <true/>
+                    <string>display-image</string>
                     <key>url</key>
                     <string>https://image.mc-forex.net/public/app/package/57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
+                    <string>full-size-image</string>
                     <key>url</key>
                     <string>https://image.mc-forex.net/public/app/package/57.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
-                <key>title</key>
-                <string>MagiCoin</string>
+                <key>bundle-identifier</key>
+                <string>com.MCFXTrader.test</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>bundle-identifier</key>
-                <string>com.apple.compilers.llvm.clang.1_0</string>
+                <key>title</key>
+                <string>MagiCoin</string>
             </dict>
         </dict>
     </array>
-</array>
+</dict>
 </plist>
