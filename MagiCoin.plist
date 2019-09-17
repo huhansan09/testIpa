@@ -37,7 +37,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
-                <string>com.MCFXTrader.test</string>
+                <string>com.apple.compilers.llvm.clang.1_0</string>
             </dict>
         </dict>
     </array>
